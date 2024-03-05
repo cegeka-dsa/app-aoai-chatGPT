@@ -8,7 +8,7 @@ This repo contains sample code for a simple chat webapp that integrates with Azu
   - Azure AI Search Index
   - Azure CosmosDB Mongo vCore vector index
   - Elasticsearch index (preview)
-  - Pinecone index (preview)
+  - Pinecone index (preview).
   - AzureML index (preview)
 
 ## Deploy the app
